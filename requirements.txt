@@ -1,2 +1,14 @@
 streamlit
+PyPDF2
+pytesseract
+pdf2image
 openai
+groq
+pandas
+numpy
+nltk
+duckduckgo-search
+aiohttp
+asyncio
+aiodns
+cchardet
