@@ -11,4 +11,3 @@ duckduckgo-search
 aiohttp
 asyncio
 aiodns
-cchardet
